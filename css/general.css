@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+      margin: 40px 90px 10px 80px;	
+	  
+}
+body{
+    
+	 padding: 12px;	
+	 background-color:#000;
+	 color:#09F; 
+}
+.deleted {
+  color: #399;
+  /*text-decoration: line-through;*/
+}
+
+h3{
+	color:#09F;
+	font-size:24px;
+	font-family:"Courier New", Courier, monospace;
+}
+
+h2{
+	color:#09F;
+	font-size:21px;
+	font-family:"Courier New", Courier, monospace;
+}
